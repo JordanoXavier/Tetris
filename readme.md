@@ -8,6 +8,11 @@
  Up Arrow: Rotate the part (clockwise)
 
 
+div align="center"
+img src="https://user-images.githubusercontent.com/112017191/217627969-15a982cc-db7a-41b6-9a51-85c7b8cd15a9.png" width="700px" /
+/div
+
+
 ## Code operation:
 
  The game board is a 20x10 matrix that receives the following values:
