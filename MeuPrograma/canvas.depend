@@ -1,0 +1,246 @@
+# depslib dependency file v1.0
+1655150461 source:d:\ufsm\disciplinas\logica e algoritmo\programas\la_14_canvas2d_win\meuprograma\src\gl_canvas2d.cpp
+	"gl_canvas2d.h"
+	<GL/glut.h>
+
+1655150407 d:\ufsm\disciplinas\logica e algoritmo\programas\la_14_canvas2d_win\meuprograma\src\gl_canvas2d.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+
+1426372440 d:\ufsm\disciplinas\logica e algoritmo\programas\la_14_canvas2d_win\meuprograma\include\gl\glut.h
+	"freeglut_std.h"
+
+1437579942 d:\ufsm\disciplinas\logica e algoritmo\programas\la_14_canvas2d_win\meuprograma\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1426372440 d:\ufsm\disciplinas\logica e algoritmo\programas\la_14_canvas2d_win\meuprograma\include\gl\freeglut_ext.h
+	<stdarg.h>
+
+1655835771 source:d:\ufsm\disciplinas\logica e algoritmo\programas\la_14_canvas2d_win\meuprograma\src\main.cpp
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	"gl_canvas2d.h"
+	"auxiliar.h"
+
+1595874226 d:\ufsm\disciplinas\logica e algoritmo\programas\la_14_canvas2d_win\meuprograma\src\auxiliar.h
+
+1658066140 source:c:\users\jorda\desktop\la_14_canvas2d_win - copia\meuprograma\src\gl_canvas2d.cpp
+	"gl_canvas2d.h"
+	<GL/glut.h>
+
+1655150407 c:\users\jorda\desktop\la_14_canvas2d_win - copia\meuprograma\src\gl_canvas2d.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+
+1426372440 c:\users\jorda\desktop\la_14_canvas2d_win - copia\meuprograma\include\gl\glut.h
+	"freeglut_std.h"
+
+1437579942 c:\users\jorda\desktop\la_14_canvas2d_win - copia\meuprograma\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1426372440 c:\users\jorda\desktop\la_14_canvas2d_win - copia\meuprograma\include\gl\freeglut_ext.h
+	<stdarg.h>
+
+1658118186 source:c:\users\jorda\desktop\la_14_canvas2d_win - copia\meuprograma\src\main.cpp
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"gl_canvas2d.h"
+	"auxiliar.h"
+
+1595874226 c:\users\jorda\desktop\la_14_canvas2d_win - copia\meuprograma\src\auxiliar.h
+
+1658190244 source:c:\users\jordano\desktop\la_14_canvas2d_win - copia\meuprograma\src\gl_canvas2d.cpp
+	"gl_canvas2d.h"
+	<GL/glut.h>
+
+1655150407 c:\users\jordano\desktop\la_14_canvas2d_win - copia\meuprograma\src\gl_canvas2d.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+
+1426372440 c:\users\jordano\desktop\la_14_canvas2d_win - copia\meuprograma\include\gl\glut.h
+	"freeglut_std.h"
+
+1437579942 c:\users\jordano\desktop\la_14_canvas2d_win - copia\meuprograma\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1426372440 c:\users\jordano\desktop\la_14_canvas2d_win - copia\meuprograma\include\gl\freeglut_ext.h
+	<stdarg.h>
+
+1658287070 source:c:\users\jordano\desktop\la_14_canvas2d_win - copia\meuprograma\src\main.cpp
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"gl_canvas2d.h"
+	"auxiliar.h"
+
+1595874226 c:\users\jordano\desktop\la_14_canvas2d_win - copia\meuprograma\src\auxiliar.h
+
+1658190244 source:c:\users\jordano\desktop\tetris\meuprograma\src\gl_canvas2d.cpp
+	"gl_canvas2d.h"
+	<GL/glut.h>
+
+1655150407 c:\users\jordano\desktop\tetris\meuprograma\src\gl_canvas2d.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+
+1426372440 c:\users\jordano\desktop\tetris\meuprograma\include\gl\glut.h
+	"freeglut_std.h"
+
+1437579942 c:\users\jordano\desktop\tetris\meuprograma\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1426372440 c:\users\jordano\desktop\tetris\meuprograma\include\gl\freeglut_ext.h
+	<stdarg.h>
+
+1658287070 source:c:\users\jordano\desktop\tetris\meuprograma\src\main.cpp
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"gl_canvas2d.h"
+	"auxiliar.h"
+
+1595874226 c:\users\jordano\desktop\tetris\meuprograma\src\auxiliar.h
+
+1658190246 source:c:\users\jorda\desktop\tetris\meuprograma\src\gl_canvas2d.cpp
+	"gl_canvas2d.h"
+	<GL/glut.h>
+
+1655150408 c:\users\jorda\desktop\tetris\meuprograma\src\gl_canvas2d.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+
+1426372440 c:\users\jorda\desktop\tetris\meuprograma\include\gl\glut.h
+	"freeglut_std.h"
+
+1437579942 c:\users\jorda\desktop\tetris\meuprograma\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1426372440 c:\users\jorda\desktop\tetris\meuprograma\include\gl\freeglut_ext.h
+	<stdarg.h>
+
+1658287072 source:c:\users\jorda\desktop\tetris\meuprograma\src\main.cpp
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"gl_canvas2d.h"
+	"auxiliar.h"
+
+1595874228 c:\users\jorda\desktop\tetris\meuprograma\src\auxiliar.h
+
+1658190246 source:c:\users\jorda\desktop\códigos\trabalhos 1 semestre\tetris\meuprograma\src\gl_canvas2d.cpp
+	"gl_canvas2d.h"
+	<GL/glut.h>
+
+1655150408 c:\users\jorda\desktop\códigos\trabalhos 1 semestre\tetris\meuprograma\src\gl_canvas2d.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+
+1426372440 c:\users\jorda\desktop\códigos\trabalhos 1 semestre\tetris\meuprograma\include\gl\glut.h
+	"freeglut_std.h"
+
+1437579942 c:\users\jorda\desktop\códigos\trabalhos 1 semestre\tetris\meuprograma\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1426372440 c:\users\jorda\desktop\códigos\trabalhos 1 semestre\tetris\meuprograma\include\gl\freeglut_ext.h
+	<stdarg.h>
+
+1667502602 source:c:\users\jorda\desktop\códigos\trabalhos 1 semestre\tetris\meuprograma\src\main.cpp
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"gl_canvas2d.h"
+	"auxiliar.h"
+
+1595874228 c:\users\jorda\desktop\códigos\trabalhos 1 semestre\tetris\meuprograma\src\auxiliar.h
+
