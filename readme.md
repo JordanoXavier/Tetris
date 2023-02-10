@@ -3,9 +3,9 @@
 
 ## Commands:
 
- Arrow left and right: move the piece in the direction of the arrow
- Down arrow: moves the piece down
- Up Arrow: Rotate the part (clockwise)
+ Arrow left and right: move the piece in the direction of the arrow  
+ Down arrow: moves the piece down  
+ Up Arrow: Rotate the part (clockwise)  
 
 
 <div align="center">
